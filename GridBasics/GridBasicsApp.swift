@@ -11,7 +11,7 @@ import SwiftUI
 struct GridBasicsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            GridBasics()
         }
     }
 }
